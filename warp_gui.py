@@ -85,7 +85,7 @@ class WarpGUI(QMainWindow):
         conn_layout = QVBoxLayout()
         conn_layout.setSpacing(8)
         
-        self.add_button(conn_layout, "📝 Register", "warp-cli register")
+        self.add_button(conn_layout, "📝 Register", "warp-cli registration new")
         
         self.connect_btn = QPushButton("🔌 Connect")
         self.connect_btn.clicked.connect(lambda: self.run_cmd("warp-cli connect"))
