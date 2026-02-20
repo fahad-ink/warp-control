@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.AppImage
+appimagetool-x86_64.AppImage
+WarpControl.AppDir/
+warp-control_1.0/
+.qoder/

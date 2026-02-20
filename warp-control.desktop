@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Warp Control
+Comment=Control Cloudflare Warp VPN
+Exec=python3 /home/max/Projects/warp/warp_gui.py
+Icon=/home/max/Projects/warp/warp-icon.svg
+Terminal=false
+Categories=Network;Utility;
